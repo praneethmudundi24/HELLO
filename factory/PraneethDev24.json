@@ -1,0 +1,9 @@
+{
+	"name": "PraneethDev24",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "41842c66-1e91-4030-ba82-061e804bd056",
+		"tenantId": "643660ff-ef1b-4a34-ba2d-8ec600bf46ed"
+	}
+}
